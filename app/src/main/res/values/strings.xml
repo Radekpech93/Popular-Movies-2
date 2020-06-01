@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <!-- Menu -->
+
+    <string name="action_top_rated">Top Rated</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_favorites">Favorites</string>
+
+
+    <string name="option_top_rated">top_rated</string>
+    <string name="option_popular">popular</string>
+
+    <!-- Movie List Item -->
+
+    <string name="poster_description">Movie posters</string>
+
+    <!-- Trailer List Item -->
+
+    <string name="trailer_description">Trailers</string>
+    <string name="trailer_image_button">Play button for trailers</string>
+
+    <!-- Main Activity -->
+
+    <string name="error_no_internet">You are not connected to the internet :(</string>
+    <string name="error_no_data">Unable to get data from the internet :(</string>
+
+    <!-- Detail Activity -->
+
+    <string name="movie_title_label">Title:</string>
+    <string name="movie_overview_label">Synopsis:</string>
+    <string name="movie_average_vote_label">Average vote:</string>
+    <string name="movie_release_date_label">Release date:</string>
+    <string name="movie_trailers_label">Trailers:</string>
+    <string name="movie_reviews_label">Reviews:</string>
+
+    <string name="add_to_favorites_button">Adds movie to favorites</string>
+    <string name="remove_from_favorites_button">Removes movie from favorites</string>
+
+    <string name="movie_trailers_path">videos</string>
+    <string name="movie_reviews_path">reviews</string>
+    <string name="movie_key">movie</string>
+
+    <!-- Bundle -->
+
+    <string name="bundle_scroll_position">SCROLL_POSITION</string>
+    <string name="bundle_movie_adapter">MOVIE_ADAPTER</string>
+    <string name="bundle_favorites_adapter">FAVORITES_ADAPTER</string>
+
+
+</resources>
